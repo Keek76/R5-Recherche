@@ -1,0 +1,4 @@
+pandas
+openpyxl
+serpapi
+python-dotenv

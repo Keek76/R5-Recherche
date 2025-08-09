@@ -1,0 +1,8 @@
+r5-leasing-agent/
+│
+├── agent.py                # Hauptskript mit Such- und Filterlogik
+├── email_service.py        # Modul zum Versenden der E-Mails
+├── config.example.env      # Vorlage für deine API-Keys und Einstellungen
+├── requirements.txt        # Python-Abhängigkeiten
+├── scheduler.py            # Optional: täglicher Cronjob-Start
+├── README.md               # Anleitung
